@@ -2,6 +2,10 @@ body {
 	background-color: #ffe5f9;	
 }
 
+.row{
+	justify-content: space-evenly;
+}
+
 .jumbotron {
 	background-color: #d9ffcc;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -103,6 +107,23 @@ body {
 	color: black;
 	background-color:	#ff99cc;
 	border-color:	#ff99cc;
+}
+
+.col-5{
+	background-color: #ccffcc;
+	padding: 4px;
+	padding-left:9px;
+	border: 3px solid #ffffcc;
+	border-radius: 5px 6px 5px 6px;
+	margin: 5px;
+}
+
+.col-5 p{
+	font-size: 0.9em;
+}
+
+.col-5 ul{
+	font-size: 0.9em;
 }
 
 .col-4 .btn-primary {
