@@ -23,7 +23,8 @@ body {
 	border-radius: 5px 6px 5px 6px;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	margin-top: 15px;
-	padding: 6px
+	padding: 6px;
+	width: 90%;
 }
 
 .sparkle{
@@ -70,6 +71,8 @@ body {
 	color:	black;
 	background-color: #ffcccc;
 	border-color: #ffcccc;
+	margin-top: 3px;
+	margin-bottom: 3px;
 }
 
 .btn-primary:hover {
