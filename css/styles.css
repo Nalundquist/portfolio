@@ -45,6 +45,7 @@ body {
 }
 
 .project {
+	font-size: 0.95em;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	background-color: #ccffcc;
 	padding: 10px;
