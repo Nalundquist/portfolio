@@ -68,3 +68,19 @@ body {
 	background-color:	#ff99cc;
 	border-color:	#ff99cc;
 }
+
+.col-4 .btn-primary {
+	color: black;
+	background-color: #ccffcc;
+	border-color: #ccffcc;
+}
+
+.col-4 .btn-primary:hover {
+	color:black;
+	background-color: #d188c1;
+	border-color: #d188c1;
+}
+
+.card {
+	width: 90%;
+}
