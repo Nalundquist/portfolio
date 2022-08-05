@@ -84,3 +84,32 @@ body {
 .card {
 	width: 90%;
 }
+
+.footer {
+	background-color: #d188c1;
+	color: white;
+	font-style: italic;
+	font-size: 0.9em;
+	height: 150px;
+	padding-left: 45%;
+	padding-right: 40%;
+	padding-top: 30px;
+	border-top: 10px solid #fffccc;
+	width: 100%
+}
+
+.footer a:link {
+	color: magenta
+}
+
+.footer a:visited {
+	color: purple;
+}
+
+.footer a:hover {
+	color: green;
+}
+
+.footer a:active {
+	color: pink
+}
