@@ -16,14 +16,18 @@ body {
 }
 
 .card {
-	background-color: #ccffe6;
-	border: 5px solid #ffcccc;
+	background-color: #ffcccc;
+	border: 2px solid #fffccc;
 	border-radius: 5px 6px 5px 6px;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	margin-top: 15px;
 }
 
 .sparkle{
-
+	font-size: 1.5em;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #redacted{
