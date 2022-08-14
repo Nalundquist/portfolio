@@ -22,8 +22,10 @@ Can either be deployed from repository and accessed by opening index.html in bro
 
 * Download [Git Bash](https://git-scm.com/downloads)
 * Open Git Bash and type 
-		>git clone https://github.com/nalundquist/portfolio
-	to clone the repository folders to whatever directory you are currently in on your computer.
+```
+     >git clone https://github.com/nalundquist/portfolio
+```
+to clone the repository folders to whatever directory you are currently in on your computer.
 * Go into the "portfolio" folder and open "index.html" in the web browser of your choice.
 
 ## Known Bugs
